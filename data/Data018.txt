@@ -1,0 +1,60 @@
+Last week Google announced that they were protecting user privacy (their words not mine) by modifying IP addresses in their activity logs after 9 months. Fellow CNET blogger Chris Soghoian felt this was a sham  because it ignored cookies, but it brings up an interesting point, just what does your IP address say about you? Or, in other words, does your IP address point to you?
+
+In some ways, an IP address does identify you or else there would be no need for Google to "anonymize IP addresses" in order to "address regulatory concerns" (again, their words not mine).
+
+What's an IP address?
+
+Every computer on a network has a unique number. On networks such as the Internet that use the TCP/IP protocol stack (which is most networks nowadays), the unique number is called an IP address. When computers on a TCP/IP network talk to each other, they address themselves by IP address.
+
+To techies, IP addresses are 32 bit binary numbers, but to normal people they consist of four decimal numbers, each between zero and 255, separated by periods. As I write this, the IP address for the cnet.com website is 216.239.122.102. For more on IP addresses see my posting OpenDNS provides added safety for free from December of last year.
+
+In the old days, individual computers on the Internet were directly addressable by their IP address, but now it is much more common for a router to have an IP address and for the router to act as the front man for bunch of computers on a Local Area Network.
+
+In this scenario, the only thing that directly connects to the outside world is the router, each individual computer on the LAN goes through the router to get to the Internet. Thus, a single IP address, assigned to the router, is shared by many computers. And that means, there is no way for the outside world to identify one computer on the LAN from another. The outside world only communicates with the router.
+
+Some people gladly share their wireless network with their neighbors. If a bad guy gets on to your wireless network and does something illegal, law enforcement may knock on your door. To the outside world, the bad guy seems to be you. All the computers on the LAN have the same public IP address, that of the router.
+
+This brings up two points:
+
+Yes, law enforcement officials can trace your IP address back to your exact physical address
+What IP addresses are being used on the LAN?
+To answer the second question, there are three groups of IP addresses that have been reserved for internal use only. That is, the TCP/IP rules state that these IP addresses will never be used on the public Internet. They are referred to as private IP addresses.
+
+The most common private IP group starts with 192.168.x.x. So, for example, there can be millions of computers accessing the Internet, each using an IP address of 192.168.1.2. But, because each resides on a different Local Area Network there are no conflicts. Another group of private IP addresses starts with 10.x.x.x and the third starts with 172.x.x.x.
+
+Your operating system deals with private IP addresses as does your router. When data moves between a Local Area Network and the Internet, the router serves as a translator between the IP addressing scheme on the inside (LAN) and the outside (Internet).* On a Windows computer, the command "ipconfig" will display the private IP address.
+
+View From The Outside
+
+Since all communication on the Internet (or any TCP/IP based network) is from an IP address to an IP address, every website that you visit knows the public IP address of your router. None of them know the private IP address of your computer.
+
+
+
+Many websites will display your public IP address, my favorite is www.ipchicken.com (see above) because it also displays the name of your computer (purposely omitted from the screen shot). I find the computer name very handy for identifying the Internet Service Provider (ISP) connecting the computer to the Internet. Some sample computer names are shown below, the numbers in the name are typically the public IP address:
+
+adsl-99-99-99-99.sip.asm.bellsouth.net
+c-99-99-99-99.hsd1.nj.comcast.net
+ppp-99-99-99-99.dsl.hstntx.swbell.net
+user-99xxxxx.cable.mindspring.com
+99-99-99-99.static.reno.nv.charter.com
+static-99-99-99-99-primus-india.net
+adsl-99-99-99-99.dsl.sfldmi.sbcglobal.net
+Where Is An IP Address
+
+Just as websites know your public IP address, so too, you know theirs.
+
+Previously, I wrote about Flagfox , a Firefox extension that takes the public IP address of the website you are visiting, looks it up in a table to learn the country it is in and displays the flag for the country. This can be useful in insuring you are actually at the website you think you are.
+
+There are a number of websites that, given an IP address, will tell you not only the country, but also the city where that IP address resides. I have found them to be hit or miss when it comes to pinpointing the city, but they always seem to be accurate in identifying the country and the ISP.
+
+Geotool is the service used by Flagfox.
+The good stuff at ip-adress.com requires your clicking on the small text at the bottom of the page.
+The other sites auto-detect your current IP address, but at IP2Location you have to provide the IP address.
+Geobytes seems to be least accurate, but in fairness, I haven't done detailed testing.
+Currently I am in New York City. Geobytes says I am in Newburgh, New York and IP2Location says I am in Atlanta, Georgia. Geotools and ip-adress.com got it right.
+
+This may be the best that normal people can do in terms of tracking an IP address to a physical location, but your ISP certainly knows where you are. Your public IP address is one that is assigned, technically, to your ISP rather than to you. Only your ISP knows which of their assigned IP addresses they assigned to you and when you were using it. Businesses often have a permanent IP address while consumers can get a different IP address every day.
+
+The good news is that ISPs keep this information to themselves, normally. In some circumstances, however, they will tell law enforcement agencies the exact physical location associated with an IP address.
+
+This cuts both ways. If, for example, a fellow customer of your ISP did something horribly bad and illegal last week while using IP address 1.2.3.4 (for example) then when law enforcement officials see that you have that address today, they won't think you're the bad guy. Your ISP would know that IP address 1.2.3.4 was given out to someone else last week

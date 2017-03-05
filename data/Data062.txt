@@ -1,0 +1,17 @@
+Apple managed to sell a rather remarkable 47.5 million iPhones over the past three months, traditionally the quietest quarter of the year from a retail perspective. But as well as continued explosive growth in China, Tim Cook, the company's CEO, put much of the performance down to what he describes as "Android Switchers."
+During the earnings call, Cook said that over the past three months Apple had: "Experienced the highest switcher rate from Android that we've ever measured." And he went on to assert that 27% of sales were to consumers who were crossing the operating system divide.
+All of which suggests it's a growing trend. So, if after years of loyalty to Google's operating system, you're starting to seriously consider plumping for an iPhone the next time your contract comes up for renewal, how do you go about it without losing everything from contacts and text messages to photos and music?
+RELATED STORIES
+Apple earnings rise on strong iPhone sales but impact of watch remains unclear
+Wait until winter
+The simplest answer is patience. The next version of the iPhone's operating system, iOS 9, is going to feature wireless migration. Simply install the Move to iOS app onto your existing Android handset and contacts, messages, photos, bookmarks, email accounts and DRM-free music will all be transferred to the new handset. It'll even run a search of the App Store to replace apps.
+What if you're already part of the 27%?
+If you've already bought a new iPhone, the process is slightly more complicated, but there are a host of step-by-step guides and migration apps available to make it much less of a chore. However, before you get started, make sure your Android handset is backed up, ideally to a computer as well as the cloud, and all of your Google account activity has been synced.
+Email and contacts
+Once your Google account activity has been synced, on your iPhone, go into the Mail and contacts settings and add your Gmail account information and everything should copy over.
+Words and pictures
+For transferring photos, videos and other files, this can be done manually via a computer -- copy files to the desktop and then from the desktop to the iPhone -- or, there's an app for it. Apple recommends Copy My Data. Download it on both devices and it will simplify the process. Note, it works both ways, so if you're switching the other way, it's just as good for moving files from an iPhone to an Android handset.
+Music
+The best way to move DRM-free songs is via iTunes, therefore you'll need a computer. Install iTunes, connect your Android device to the PC, and copy music files to it. Install them in the iTunes library and then the next time you connect your iPhone to the computer, the tracks will automatically sync, providing there is sufficient space on the handset, of course. Unlike most Android handsets, Apple doesn't support expansion via SD or MicroSD card!
+Social media and music streaming apps
+Whether on a desktop, a tablet, an Android handset or an iPhone, your account is transferrable. Simply install the app -- Facebook, Twitter, etc, sign in as normal and everything should be right where you left it.

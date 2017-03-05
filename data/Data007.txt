@@ -1,0 +1,108 @@
+AMD CEO Lisa Su Interview: Confident In Next Graphics Launch, Zen's Success Is Key
+By Fritz Nelson
+
+Last week, away from the noisy hullabaloo of Computex in Taipei, a small group of journalists was invited to a free-form discussion with AMD CEO Lisa Su in a quiet, pabulum conference room in the basement meeting space of a shopping mall down the street from the Grand Hyatt.
+
+Like most days in Taipei during this time of year, it was overcast, with the humidity of a thick fur blanket, and the promise of either sun or rain. You're never quite sure which way it will go. A walk from the Grand Hyatt would leave me drenched either way. Thankfully, the Bellavita mall basement was in full arctic blast.
+
+We talked mostly about AMD's strategy, its recent Carrizo launch, and its launches to come, including the newest Radeon flagship family of GPUs, the company's move to high-bandwidth memory, and most of all, Zen, its forthcoming high-end processor architecture. The impact of these moves by AMD hovered unspoken over the conversation like those clouds outside.
+
+This is, to be sure, a crucial time in AMD's history. Today marks one week before AMD's heavily-anticipated, next-generation graphics family launch in Los Angeles at E3 (June 16). Last week AMD officially announced the shipment of Carrizo, its sixth-generation APU, still built on the same 28nm process, but completely re-imagined. And further on the horizon is Zen, a new CPU architecture that AMD promises will scale from the server to the desktop to the APU.
+
+If successful, these moves will certainly reinvigorate AMD and recalibrate some of the competitive landscape. There's more to AMD's future than just those new architectures -- but not much more, truth be told.
+
+Su reiterated the financial goals she laid out in the financial analyst day in New York a month ago, saying AMD is fixated on "consistent profitability" (at $0.50+ EPS) before revenue growth and on transitioning the revenue fuel mix from being 60 percent dependent on its PC market products today to only 50 percent by the end of 2016 -- a signal that the company was "more balanced and diversified." And presumably, even more immune from missteps in any particular area.
+
+Since 2012, AMD has seen its non-PC business (enterprise, embedded and semi-custom businesses) take on more of the overall revenue pie, rising from 10 percent in 2012, to 30 percent in 2013, and 40 percent at the end of 2014.
+
+And so we met with Lisa Su in that brief respite between Carrizo and the next GPU. All of the deep-dive details of Carrizo had been shared, and there were nearly a dozen OEM laptops based on the sixth-generation APU neatly set on a stand in the basement meeting area. Su had given her one last Radeon tease, confirming what had become widely known: the final date for the announcement. 
+
+Su seemed relaxed, but I suspect she is generally so. This is by no means a personality profile of the still-new CEO, but a casual observation that puts her in stark contrast to Nvidia's CEO Jen-Hsun Huang. Where Huang bounded into his press briefing with about 30 journalists, straight from his flight but precisely on time, delivering effusive remarks about Nvidia's line-up, Su walked into the room about 15 minutes late, relaxed, quietly confident, and turned the Q&A into more of a conversation. Where Huang verbally dressed down his PR team when his products weren't set up to his liking, Su easily demurred to her communications chief, John Taylor. Huang was playful with his guests. Su was cautious, but polite.
+
+I don't mean for either approach to sound superior to the other. They're just stylistically different. Both are reportedly brilliant engineering minds. Each has a bachelor's and master's degree in electrical engineering, Huang from Oregon State and Stanford, respectively, and Su from MIT. (Su also has a doctorate in electrical engineering from MIT, not that anyone's calculating the scholastic ledger.) Both clearly possess leadership skills, and both have amassed a lifetime's worth of achievement already, and both are still quite young. Both are focused and intense; it's just that one seems extroverted, and the other is...more quietly confident.
+
+But this is really more about AMD, whose prospects are frequently doubted, its detractors circling the company like a potential carcass, awaiting the next misstep. The roadmap AMD laid out a few weeks ago during its annual financial analyst day in New York hardly looks like a company withering away. Its plans for recovery look promising, though distant and complex.
+
+Su did just manage to hire Jim Anderson as AMD's senior VP and GM for the company's computing and graphics business group, a key position at a key time. Anderson was once an architect within Intel's microprocessor team, and later part of that strategy group. With IBM and Freescale in Su's resume, nobody is questioning the bona fides, just the outcome; the proof, as they say, is in the silicon. (They say that, don't they?)
+
+AMD's fans, on the other hand, often seem to be those who root for the underdog, the little guy -- or maybe just the other guy. Or at any rate, the sometimes-just-more-affordable guy. Take your pick. For them, any light that shines is one of hope, or at least expectation. Or at any rate, proof. But even they must know that AMD can ill afford too many missteps, especially on strategic platforms that will define the next few years of products. You know, the big stuff.
+
+The next several months are filled with big stuff and will determine who's right: the salivating vultures, or the drooling, dogged fanbois; the smiling sun or the pregnant clouds.
+On Graphics And HBM
+
+During the recent financial analyst day, AMD talked a little about the next graphics line-up, which, no surprise, will be aimed at 4K gaming with support for DX12 and even VR experiences. This next flagship GPU comes of course on the heels of Nvidia's family of Maxwell-based graphics processors that culminated in its latest launch, the GeForce GTX 980 Ti, which is perhaps the sweet spot of the high-end PC gaming segment. Gaming accounts for approximately $3 billion of AMD's revenue. Execution here is critical. 
+
+AMD has said it will move to a new FinFET process in 2016, with a potential 2x energy efficiency improvement over previous-generation GPUs.
+
+Almost three weeks ago, AMD announced the implementation of high-bandwidth memory (HBM), to be seen first in the company's graphics technology, with promises of a 3x performance-per-watt improvement over GDDR5 and a 50 percent power savings.
+
+Both AMD and Nvidia, among others, have talked about and been working on implementations of stacked memory architectures, but AMD will be the first to ship. Lisa Su said that it's been in development for a long time, and the decision to put it into production now was predicated on both the necessity and fit for a high-end graphics part, and because the volume shipments expected with the new GPU should help push HBM down the cost curve so that it's applicable to other implementations and products. Surprisingly, AMD made this decision 18 months ago, Su told us.
+
+Su would not comment on when we would see other HBM implementations, nor on which products, but she said that there are neither production nor technology limitations, just decisions to be made "based on the company's overall product roadmap, and individual market decisions." AMD has said that there would eventually be an APU with a high-bandwidth memory implementation. It just hasn't said when.
+
+"We've been experimenting and running quite a bit of hardware," Su said about AMD's testing of HBM, meaning beyond graphics, but she added that "[AMD is] very confident in the new launch." Su also said that this is just the first generation of HBM, and that its design is sure to improve over time.
+
+As to why AMD chose to announce the new graphics flagship at E3 instead of Computex, she pointed to the fact that Carrizo was the right move for last week's trade show because of the heavy hardware OEM involvement. Because E3 is all about gaming, and gaming is a big focus of the next graphics launch (and for AMD overall), E3 makes more sense as a launch vehicle.
+
+We asked about the ongoing graphics arms race, specifically about AMD's ability to continue to play such a competitive role in it, but Su was steadfast, admitting that it was indeed a bit of an arms race but saying that graphics is in the company's DNA. That arms race, she said, is really about performance milestones, about being first to things like DX12 or VR, and then she once again turned to HBM, where AMD has arrived first.
+
+She said that we would soon hear how that technology fits into the company's overall graphics roadmap, implying perhaps—the inference is our own—that we'll hear about a family of technologies, and that HBM will be part of some products, but not others. OEM sources have indicated as much to me, but it's difficult to put much stock in those given the bounty of leaks.
+
+Su specifically pointed to VR as another reminder about the importance of discrete graphics capabilities, but I asked her when VR would have a material influence on AMD's graphics sales. She said that it's "an exciting enough application that you'll see graphics cards being driven by it" starting as early as the next year or two, but that because the content is still evolving (she called this the year of enabling developers), it might be a few years before it has a heavy impact.
+
+I pressed Su for any indication, even just from AMD's point of view, on the next-gen Radeon performance, but she was onto me, offering only that "we believe the technology has a lot of legs."
+
+In only a few more days, the talk will be over and we'll see whether AMD meets or raises the bar.
+On Carrizo
+
+AMD has spent just as much time talking about APUs, especially Carrizo, as it has graphics lately. Part of that strong push is fueled by AMD's stated goal of making Carrizo the heart of what AMD feels is the largest volume computing opportunity, the $400-$700 laptop segment. At a high level, AMD is positioning Carrizo for the mainstream, with laptops that can handle heavy multitasking and graphically intensive tasks such as video and photo editing, video playback, and gaming. 
+
+At a lower level, Carrizo features Excavator, the newest core, but one that's built on the same 28nm process node. AMD packed in the performance, but also the efficiency, and it includes HVEC decoding, a larger L1 cache, and HSA 1.0 support. AMD said it has 17x the compute performance and 2x the graphics performance of Kaveri. 
+
+At an even lower level, AMD made some important design choices, in particular teaming up the CPU and GPU groups, with the CPU engineers borrowing from the GPU team's use of high-density libraries to maximize the space on the die, which allowed the engineers to add better graphics and multimedia decoding.
+
+Intel differentiates in process manufacturing, whereas AMD has relied on third-party process technology, choosing instead to "invest more in design libraries and tools" in order to improve efficiencies, performance and processes, according to Su. This is where AMD wants to innovate, she said, not on standard process technology.
+
+(Here's the stating-the-obvious moment: that's of course what you say if you're a smart CEO and you don't own the fab.)
+
+She added that density and performance were important goals for any chip manufacturer, but that 28nm has done well over several generations. On the other hand, AMD has been public about moving its APU to FinFET technology next, she said, adding that AMD "can be competitive in IPC as well as graphic density."
+
+"Even though Carrizo is on 28nm, versus Intel at smaller process nodes, our graphics performance is substantially better," she said, referring to AMD's internal numbers showing Carrizo compared to current Intel Core i3 technologies within the same target price range.
+
+"Carrizo is the best mobile processor that we've done," Su said emphatically.
+
+Let the benchmarking begin.
+On Zen
+
+During last month's financial analyst day, AMD outlined a few details about Zen. First, that Zen will come sometime in 2016. Second, that it would be based on a new FinFET process that the company said will scale from the client to the server. It also said that its architecture would abandon the Clustered Multi-Threading (CMT) approach of the Bulldozer design and move to the more traditional Simultaneous Multi-Threading (SMT) approach.
+
+The goal will be to push IPC some 40 percent higher, and its new cache system will improve in both bandwidth and latency. We've been privy to no details on how all of this is accomplished, nor details of the FinFET process (which many assume will be 14nm), nor details on the exact timing. Su did tell us that we'll see Zen first on the desktop, however.
+
+Moreover, we'll also see the Zen architecture find its way into APUs. For both high-end desktop CPUs and APUs, Zen will use the AM4 platform, and this will include DDR4 support. We'll likely see an HBM approach on this CPU.
+
+It has only been a few weeks since AMD's financial analyst day, but the obligatory message Su delivered was that AMD is committed to achieving the goals set forth in its roadmap.
+
+I pressed Su for the one thing on AMD's roadmap where she felt the company absolutely had to succeed, either because a misstep might be harmful, or because success might help the company hit its financial targets faster. The answer, in a word, is Zen. 
+
+"In the short term, how we do in the PC market is very important," she said, pointing to share losses in the PC market that have knocked AMD around a bit.
+
+AMD is making a big bet, she said, on servers and on high-performance desktops. It is "very deliberate, and we have to execute," she said.
+
+Without much detail, we'll have to wait. But my colleagues at the roundtable pressed Su on some of the failures of the past, specifically around AMD's poor single-threaded performance. 
+
+Su said, about Zen, that it was important to get everything right. That single-threaded performance was important, but so too was overall system architecture, and power performance. She said the two fundamental pillars in the future AMD roadmap included improving IPC across all applications, and performance per watt in graphics. 
+
+She also reiterated that "Zen is first in a family of processors," adding that "you can't be a one shot wonder."
+On IoT, Smartphones, Enterprise And Cloud
+
+AMD's CEO said that while the company will continue to focus on PCs, there was plenty of growth in servers and in both enterprise and cloud data centers, and specifically in the compute centric areas of the cloud, where Su said AMD was "quite underrepresented," even though the cloud needs high-end CPUs and graphics.
+
+If desktop compute and graphics (and consoles) are the clear short-term focus for AMD, enterprise and cloud are longer term targets, and Su believes both represent high revenue and high margin opportunities.
+
+"Zen is a big step function improvement in overall CPU capabilities," she said, and "that will help drive the opportunities in the enterprise and in the cloud." She said that AMD has received lots of feedback on its Zen architectural and product plans from the cloud players and is confident her company is well positioned when it begins to execute on those plans.
+
+Late last year, AMD snatched Forrest Norrod away from Dell, where he ran its server business, a sign of AMD's seriousness in this segment.
+
+On the other end of the computing spectrum, Su said that the company was decidedly not going to get into smartphones, microcontrollers and other end-point devices, including the sensor part of the IoT market.
+
+In the low-end there's just not that much room for differentiation, she said. Carrizo is AMD's answer to the Intel Core i3 and i5, but while there is great volume in the sub-$299 space, there isn't much margin, she indicated, which sounded eerily similar to what we heard from Nvidia's Jen-Hsun.

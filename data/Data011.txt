@@ -1,0 +1,129 @@
+How to Read Your Website Source Code and Why It’s Important
+
+Underneath all the beautiful images, perfect typography, and wonderfully placed calls to action lies your webpage source code. This is the code your browser turns into delightful experiences for your visitors and customers on a daily basis.
+
+Google and other search engines “read” this code to determine where your webpages should appear in their indexes for a given search query. So, a lot of SEO comes down to what’s in your source code.
+
+This is a quick guide to show you how to read your own website source code in order to make sure it’s properly SEO-ed and, really, to teach you how to sanity check your SEO efforts. I also will go over a few other situations where knowing how to view and examine the right parts of source code can help with other marketing efforts.
+
+Finally, if you’re paying someone to SEO your site, this is a great guide to help you keep tabs on them!
+
+How to View Source Code
+The first step in checking your website’s source code is to view the actual code. Every web browser allows you to do this easily. Below are the keyboard commands for viewing your webpage source code for both PC and Mac.
+
+PC
+
+Firefox – CTRL + U (Meaning press the CTRL key on your keyboard and hold it down. While holding down the CTRL key, press the “u” key.) Alternatively, you can go to the “Firefox” menu and then click on “Web Developer,” and then “Page Source.”
+Internet Explorer – CTRL + U. Or right click and select “View Source.”
+Chrome – CTRL + U. Or you can click on the weird-looking key with three horizontal lines in the upper right hand corner. Then click on “Tools” and select “View Source.”
+Opera – CTRL + U. You also can right click on the webpage and select “View Page Source.”
+Mac
+
+Safari – The keyboard shortcut is Option+Command+U. You also can right click on the webpage and select “Show Page Source.”
+Firefox – You can right click and select “Page Source” or you can navigate to your “Tools” menu, select “Web Developer,” and click on “Page Source.” The keyboard shortcut is Command + U.
+Chrome – Navigate to “View” and then click on “Developer” and then “View Source.” You also can right click and select “View Page Source.” The keyboard shortcut is Option+Command+U.
+Once you know how to view the source code, you need to know how to search for things in it. Usually, the same search functions you use for normal web browsing apply to searching in your source code. Commands like CTRL + F (for Find) will help you quickly scan your source code for important SEO elements.
+
+Title Tags
+The title tag is the holy grail of on-page SEO. It’s the most important thing in your source code. If you’re going to take one thing away from this article, pay attention to this:
+
+You know those results Google provides when you’re searching for something?
+
+All of those results come from the title tags of the webpages they are pointing to. So, if you don’t have title tags in your source code, you can’t show up in Google (or in any other search engine, for that matter). Believe it or not, I’ve actually seen websites without title tags!
+
+Now, let’s do a quick Google search for the term “Marketing Guides”:
+
+marketing guides search results
+
+You can see that the first result is for the KISSmetrics blog section on marketing guides. If we click on that first result and view the page source code, we can see the title tag:
+
+the title tag
+
+The title tag is designated by the opening tag: <title>. It ends with the closing tag: </title>. The title tag is usually near the top of your source code in the <head> section.
+
+And we can see that the content inside the title tag matches what is used in the headline of that first Google result.
+
+Not only are title tags required in order to be included in Google search results, but Google identifies the words in your title tags as important keywords that they think are relevant to their users’ searches.
+
+So if you want a certain webpage to rank for a particular subject matter, you’d better make sure words that describe the subject matter are in the title tag. To learn more about how keywords and title tags are important in your overall site architecture, check out this post.
+
+Here are some important things to remember about your title tags:
+
+Make sure you have only one title tag per webpage.
+Make sure every webpage on your website has a title tag.
+Make sure each title tag on your website is unique. Never duplicate title tag content.
+Meta Descriptions
+Another important part of your webpage’s head section is the meta description tag. This 160 character snippet is free advertising copy that gets displayed underneath your title content in the search engines.
+
+the meta description
+
+I’ve seen hundreds of websites that completely ignore this tag. It’s very easy to find in your source code:
+
+meta description source code
+
+So, check to make sure it’s on all of your webpages. More importantly, check to make sure you’re not duplicating it across multiple pages. Duplicating a meta description tag is not a search engine penalty, but it’s a very big marketing mistake.
+
+A lot of people gloss over the meta description, but you really should put some thought into it because it is read by search engine users. Think about what copy would help pull in more visitors and increase click-throughs.
+
+H1 Headings
+H1 headings carry a little on-page SEO weight, so it’s a good idea to check your pages to make sure you are using them properly. For each page on your website, look over the source code to see if you spot this tag:
+
+h1 heading source code
+
+You don’t want more than one set of H1 tags appearing on any given webpage. We recently published an article that says you shouldn’t try to over optimize your H1 headings. And what that boils down to is don’t try to purposely boost your SEO by putting your keyword in the H1 heading. Just use it for what it’s meant for – the biggest heading on the page. On your home page, this might be your value proposition.
+
+Nofollows
+If you engage in link building, then checking your backlinks to see if they are nofollowed is a must.
+
+But before I go further, I have to talk a little about what “link juice” is. In the world of SEO, getting another website to link to your site is a great achievement. That link is seen by search engines as an endorsement. Search engines factor in the number of links that point to your site when they are ranking your site in their engines. “Link Juice” is a non-scientific term for the so-called power that the link provides your website or webpage in question.
+
+Nofollows are an attribute that can be coded into a link to stop the link juice from flowing to a website. This is a very common thing you will see in the links present in the comment section of blogs.
+
+To find out if your backlinks are passing link juice, you should check to see if the links have nofollow attributes inside them. If they do, then the link you worked so hard to get isn’t doing much for you since the nofollow attribute basically tells Google to ignore your webpage.
+
+The Nofollow Attribute
+
+It might be a little hard to see in the picture above, but rel=’external nofollow’ is in the anchor link. So, even though a person can click through on the link, no link juice is being passed.
+
+Some people think that Google actually does count some link juice from nofollows, but to be conservative in your backlink counting, you should assume nothing is getting passed.
+
+Alternatively, you may want to “page sculpt” some of your own webpages. Some SEOs believe it’s a good idea to limit what pages you send your internal link juice to so that more important webpages get the majority of the site’s overall link juice. You can do this by nofollowing some of your internal website links. For example, you might want to nofollow all of the links to your privacy policy or other boring / uninteresting pages.
+
+Google will tell you to ignore this practice, and I somewhat agree. It’s kind of a tedious, unnecessary task, and your energy is better spent on creating great content instead.
+
+Image Alt Tags
+Empty image alt tags are very common SEO boo-boos. Image alt tags describe what your images are to robotic search engines.
+
+If you run an ecommerce website, you definitely want to make sure your alt tags are filled out. A good idea is to make sure that the product brand name and serial number are in the alt tag description.
+
+image alt tag
+
+Above is a screenshot of an image tag with the alt tag buried inside it.
+
+Now, you don’t want to use alt tags for decorative images. That can be seen as an over optimization and be a penalty. Just make sure you have your alt tags filled out for:
+
+Images of Merchandise
+Diagrams
+Infographics
+Your Website Logo
+Screenshots
+Photos of Team Members
+Verifying That Your Analytics is Installed Properly
+One last great reason for checking your source code is to make sure you have Google Analytics or KISSmetrics installed on every webpage of your website.
+
+Checking is very simple. For Google Analytics, just view the source code of your webpages and search for the letters “UA.”
+
+verifying google analytics
+
+If you find an instance where the “UA” is followed by a 7-digit number, then you have confirmed that Google Analytics is installed on that one page. Also, keep track of how many times “UA” shows up on your webpage. Sometimes, your analytics tracking code will be inserted more than once accidentally, which is unnecessary. If that’s the case, you should have your developer remove the extra instances.
+
+For KISSmetrics, look for “_km” to confirm that KISSmetrics is installed on your webpage. It’s also a good idea to check to see if the entire code snippet is present. It’s possible that somewhere along the way the snippet was truncated (either by not copying the entire snippet or by devious gremlins living in your developer’s computer).
+
+Next, you will have to check the remaining webpages on your site to see if your analytics code has been inserted on every page. If you don’t have your analytics tracking code on every page of your website, you’re not getting a complete picture of what’s happening on your site, which kind of makes analytics useless.
+
+This can be a daunting task if you have an enormous website. It even can be impossible to check manually.
+
+I like to use xml-sitemaps.com to get a text file of all the URLs my website has within it. This provides me with an inventory checklist which helps to keep track of which URLs might need some extra attention (like having analytics installed on them). It’s also a great tool for being alerted to duplicate content issues and other strange things that might be lurking on a web server.
+
+Even xml-sitemaps.com will give you only 500 results for free. You may need to ask your developer to give you a URL inventory so that you have a complete map of your massive website. Additionally, you may want them to create a script or program to perform these checks for you so you don’t have to do them manually.
+

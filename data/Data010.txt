@@ -1,0 +1,108 @@
+How to Supercharge Your Router with DD-WRT
+ 
+Adam Dachis
+
+How to Supercharge Your Router with DD-WRT
+
+Few routers utilize their full potential out of the box because their firmware limits their functionality. Thanks to an open-source project called DD-WRT, you can unlock your router’s potential to broadcast a stronger signal, manage network traffic, remotely access all your home computers, and a whole lot more. Here’s how to install it, set it up, and supercharge your network.
+
+What You’ll Need
+
+How to Supercharge Your Router with DD-WRT
+
+You don’t need much to get started with DD-WRT. All it takes is a little time to find the right version for your (hopefully) supported router:
+
+A supported router: Many popular routers released at least six months ago have DD-WRT support, but DD-WRT does not support all routers. Search the database to find out if yours is supported. Many have functional beta firmware, if not a final release, but read any notes on your router’s page to find out if you need to do anything special in order to successfully install DD-WRT.
+DD-WRT: When you look up your router using DD-WRT’s router database search (mentioned in the previous step), you’ll have a few downloads. Most routers will have a few downloads and you just want to choose the latest stable build. In some cases, like with the popular Asus RT-N66U, you may need to first flash temporary firmware to install DD-WRT. Most routers don’t require much work, but some need a little extra effort. Read your router’s page carefully so you don’t accidentally install the wrong thing and brick it.
+About a half an hour of your time to handle the above steps, install the DD-WRT firmware, and configure your newly supercharged router.
+That’s it. Once you have your router and its corresponding DD-WRT firmware you can start setting it up.
+
+Install DD-WRT
+
+How to Supercharge Your Router with DD-WRT
+Installing DD-WRT varies depending on your router, but the general instructions tend to stay the same. Here’s how it usually works:
+
+Log into your router’s admin page. This page lives at varying locations, but it’ll either resemble 192.168.x.x or 10.0.x.x. For example, most Linksys routers host their admin pages at http://192.168.1.1. Consult your router’s manual for its admin address if you don’t know it.
+Go to the Admin(istration) section and choose Firmware Upgrade.
+Choose “Select File” and find your DD-WRT firmware.
+Upload it and wait for your router to update. Do not unplug or do anything to the router until it finishes updating.
+Again, these instructions will differ depending on the router you choose. DD-WRT will include specific instructions for your router if you need to do anything special, so make sure you read them.
+
+With DD-WRT successfully installed, reconnect to your network over ethernet or Wi-Fi (with a new network SSID of dd-wrt) and visit your admin page. In most cases it will still live at the same address of its predecessor (e.g. if you went to http://192.168.1.1 to upload the DD-WRT firmware, go there now). DD-WRT may request a username and password, which by default is root/admin (which you should change to your own if this happens). Newer versions will ask you to choose your own. After logging in, you’ll see the DD-WRT admin page. Now you’re ready to get started!
+
+What You Can Do With Your New Super Router
+
+With DD-WRT installed, you’ll have access to tons of awesome features. Let’s take a look at some of the best.
+
+Note: You might notice that some of these features are available in existing routers that don’t run DD-WRT. Some routers offer more features than others, but DD-WRT always expands on those features even if they’re already present in the default firmware. So, don’t discount DD-WRT just because you already have certain features. DD-WRT can make them better.
+
+Boost Your Wireless Signal
+
+How to Supercharge Your Router with DD-WRT
+
+
+DD-WRT offers a few ways to improve your wireless signal. First, you need to pick the best wireless channel with the least interference. To do that, use the Meraki Wi-Fi Stumbler to see which channels are occupied by the fewest nearby routers. For more exact results, DD-WRT offers a bunch of tools to locate the best channel. If you’d like to take a deep dive into this process, read these instructions.
+
+Once you know the channel you want, you have to tell DD-WRT. To do so, follow these steps:
+
+Choose the Wireless tab from the admin page.
+DD-WRT should select the Basic Settings sub-tab by default, but if not you should click on it.
+Find the Wireless Channel drop-down menu and select the channel you want.
+Click Save, then click Apply Settings.
+Wait for the router to reboot with its new wireless channel, connect to your network, and you’ll be good to go.
+
+DD-WRT can do more to improve your wireless signal by actually making your router transmit more powerfully. While it may seem like you’ll want to transmit as powerfully as your router allows, you might end up frying its motherboard that way. Instead, setting its transmit (Tx) power to 71 mW will give it a slight kick without any burnout. You can change by clicking the Wireless tab and then the Advanced Wireless Settings subtab. You’ll find a Tx Power setting. You may see it at 71 mW already as more recent versions change this for you, but if not you can make the change in that section.
+
+If all of that doesn’t do it for you, there are always signal-boosting DIY projects that can help as well.
+
+ 
+Top 10 Ways to Boost Your Home Wi-Fi
+Wi-Fi is one of the most useful and important parts of using a computer, and yet it's also one …
+Read more
+Use QoS to Prevent Bandwidth Hogging and Network Overloads
+
+How to Supercharge Your Router with DD-WRT
+
+
+QoS (Quality of Service) is a set of rules that prevents bandwidth hogs, whether that’s a person (your roommate) or application (BitTorrent). QoS provides a lot of power and control and setting it up can get pretty detailed if you want. We’ll take a look at the basics here, but check out our full QoS guide for more information.
+
+ 
+Ensure a Fast Internet Connection When You Need It
+Click to viewYour internet connection is an indispensable part of your life, but between…
+Read more
+To get started, navigated to the NAT / QoS tab and then click the QoS sub-tab. Before you can do much, you’ll have to enable QoS (by selecting the Enable radio button) and fill in a few settings:
+
+WAN, LAN, or Both: Generally you’ll use QoS to handle traffic from outside your local network, so you’ll defaults to WAN (Wide Area Network). Unless you have a reason to change it, just leave this setting as-is.
+Packet Scheduler: This can be set to HTB or HFSC. HTB is the default method that uses a "token" system to manage bandwidth. Don't change this to HFSC unless you know what you're doing.
+Uplink and Downlink: Here you can set a limit for the total network bandwidth can be used on your network. If you don't want to max out your connection, you can set these speeds to less than their theoretical maximums. DD-WRT recommends 80-95% for uplink and 80-100% for downlink.
+Once you've got those global settings taken care of, you can start specifying rules. DD-WRT splits these rules up into three categories: Services, Netmask, and MAC priorities. Here’s what they mean:
+
+Services Priority lets you set bandwidth priorities for different applications. These applications are pre-set and include everything from SMTP to BitTorrent to Xbox Live. If a particular service isn't listed, you can add it yourself.
+Netmask Priority can give bandwidth priority to a range of IP addresses. For example, if you have three computers that use the IP addresses 192.168.1.10, 192.168.1.11, 192.168.1.12, you can specify that range to receive priority. This can be useful if you want to ensure that your machines will always take priority over any guest computers that show up on your network.
+MAC Priority is a way to set which specific devices receive priority over others. Here you enter your device's MAC address (a MAC address is a unique identifying address for your computer's network adapter) and set a relevant priority.
+Once you've chosen a service, IP range, or MAC address, and added it to your priorities list, you have to actually define the priority. By default the priority will be set to Standard, but you can promote it to Express or Premium to give it a higher bandwidth priority over other items on the list. These categories are good for applications that will sometimes require additional bandwidth, such as video chat and VOIP. You can also set any item to Exempt to let the app or computer use as much bandwidth as it wants and Bulk if you want it to only use bandwidth that is left over from other applications.
+
+After you've finished adding all your devices and setting their priorities, you can save your settings and let your router reboot (if necessary). That's really all you have to do to get QoS working, but if you want to take a deeper dive you should check out our full QoS guide.
+
+Set Up Port Forwarding to Access Your Computer from Afar
+
+How to Supercharge Your Router with DD-WRT
+
+
+In most cases, your local network is local and cut off from the rest of the internet and you have just one IP address that's shown to the world (even though your router distributes several to your individual computers and devices locally)—your WAN IP. Port forwarding does takes a port on your WAN IP address—the one available to the rest of the web—and forwards it to a port on one of your local machines—a LAN IP address—so you or others can access a specific service on your local network when they’re connected to another one.
+
+To give you a real-world example, web servers run on port 80 by default. If you wanted to run a web server from a machine at home, you’d open up port 80 on your WAN IP address and tell it to forward to port 80 on the LAN IP address of your local machine. Let’s say your WAN IP is 75.43.111.3 and the LAN IP of your desktop computer—the one you want to use as a web server—is 192.168.1.104. When someone goes to http://75.43.111.3 in a web browser (HTTP assumes you want to use port 80) they’ll get forwarded to the web server on your local machine and see whatever site you set up.
+
+Setting up port forwarding is pretty straightforward, but before you get started you need to know what ports you want to open up. Most of the time, you'll set up port forwarding on an as-needed basis—say after you've set up a new service on your computer, like a web server. Sites like PortForward.com can help, as they provide a handy list of common ports for specific services. You can use this list to check which ports you need to open for whatever services you want to make available from outside your home network.
+
+How to Supercharge Your Router with DD-WRT
+
+Once you know which port you want to open, click on the NAT / QoS tab in DD-WRT and then the Port Forwarding sub-tab. Once there, click the Add button to create a new port forwarding rule and fill out the following:
+
+Application - The name of the application you're forwarding this port for. You can use any descriptive text you want—this field is here to help you remember why you set this up; like the name suggests, you normally want to use the name of the application you're setting up port forwarding for. I also include my computer's name along with the service, since I forward ports for the same applications on different computers. This helps me quickly find the rules should I need to change them later on.
+Port to - "Port to" is the port on your local IP address. If you were setting up VNC for a local computer, you'd fill this in with 5900 as that's the port number VNC uses.
+Port from - "Port from" is the port on your external IP address. Generally you'll also enter the same port as you would in the "Port to" field. This works just fine when you're configuring only one machine for one type of service. But say you wanted to be able to remotely access two or more computers using VNC. If you used 5900 on a single, external IP address they would be in conflict. The router would see a request for port 5900 and not know which local IP address should handle that request since the port forwarding table has two. To solve this problem, you can use the standard port for one and not for the other—kind of like an apartment building has a single address but multiple apartments. As you can see in the sample routing table above, Grey's "Port from" is set to 5900 while Hunter's "Port from" is set to 5901. If you try to use VNC normally on my external IP address, you'll be asked to log in to Grey because it uses the standard port. If you want to access Hunter, however, you can easily do so by just using port 5901 instead of the default. This way you can set up identical services with a single external IP address without conflicts.
+Protocol - This is where you specify whether or not your service uses the TCP protocol, UDP protocol, or both. When you look up your ports you'll also want to make note of the protocols used. In most cases it will just be TCP.
+IP Address - This is where you specify the LAN (local area network) IP address of the computer you want to use for this port forwarding rule. You can easily find this information in your computer's network settings. The IP address will generally be in the 192.168.x.x or 10.0.x.x format. Because these IP address are generally dynamic (meaning they can change), you'll want to either set up static IP addresses or DHCP reservations. More information on that is available below.
+Enable - You need to check this box to enable the port forwarding rule. If you don't check it, you'll still be able to save the rule but it won't be active or function in any way.
+When you’re done adding a port forwarding rule, click Save. When you’re done adding all of your rules, click Apply Settings. These are just the basics of port forwarding, and you can do quite a bit more with DD-WRT. For more information, read our port forwarding guide.

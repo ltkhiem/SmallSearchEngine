@@ -1,0 +1,63 @@
+When Apple first introduced Siri back in 2011, it was an interesting concept plagued by limited functionality. But in typical fashion, Apple over the years has quietly bestowed upon Siri all sorts of cool, unique, and interesting talents. Equally as important, Siri’s overall speed and ability to parse language has increased dramatically in just the last two years alone.
+
+DON’T MISS: YouTube is back with a vengeance and is now more popular than cable
+
+For anyone who was lukewarm on Siri and turned the feature off , it might be time to give it another shot. Believe it or not, Siri has actually become quite useful, a fact which some might find surprising given that the feature only tends to make headlines when it offers up a whimsical, offbeat, or controversial response.
+
+Well, it’s time to give Siri some credit where credit is due. To start out, we’ve compiled a list of six cool Siri commands that you probably didn’t know existed. Some are old, some are new, but they’re all worth giving a spin.
+
+1. Siri can check Twitter in a jiffy
+
+If you want to see what one person or site in particular has been saying on Twitter, you could fire up the Twitter app and then navigate on over to a specific Twitter account. Or, you could save a step and simply ask Siri, “What is (insert Twitter name here) saying?”
+
+Siri, in a heartbeat, will return the queried Twitter account’s 10 most recent tweets.
+
+Here are two quick examples.
+
+Let’s see what’s going on at BGR.
+
+bgr twitter siri
+
+But wait, there’s more!
+
+Not only can Siri understand Twitter handles, it can also understand Twitter names. For example, LeBron James’ Twitter handle is @KingJames. If you don’t know that off hand, you can just as easily ask Siri “What is Lebron James saying?” and it will still be able to return you James’ 10 most recent tweets.
+
+Lebron James twitter
+
+This tip is especially useful for Twitter users who follow a lot of people but want to quickly check in on an account or two without getting lost amidst a sea of Tweets.
+
+2. Tell Siri to “Take a Selfie”
+
+Is there a more horrid word in the English language than ‘selfie’? The thing is, people have been taking photos of themselves for years, yet somehow along the way, we decided to start calling such photos selfies as if they represented a completely new medium of photography. But I digress.
+
+If you want to quickly open up your iPhone’s camera app, simply tell Siri to “Take a Selfie” and, wallah!, the camera app will open right up. It’s a nifty little command, albeit with one minor hiccup. When the camera app opens up, the camera orientation is where it last left off. You’d think that the camera app, with a selfie command of all things, would open up with the front facing camera enabled by default. Oh well, perhaps Apple will get around to dealing with that tomfoolery in iOS 12.
+
+3. Get directions in a snap
+
+siri get directions
+
+Admittedly, using Apple Maps or Google Maps to get directions isn’t too cumbersome of a process. Still, using Siri for all of your navigation needs can make things a bit more efficient. As mentioned earlier, Siri is remarkably good at understanding diction, a talent which makes saying an address aloud much quicker than having to type it in by hand.
+
+To make use of this feature, simply tell Siri to “Get Directions to (insert address here)” and Apple Maps will launch right before your eyes. Notably, you can simply speak an address without having to specify the city.
+
+4. Find out what song is playing
+
+Shazam is amazing, but it’s hard to deny that the app has become a bit of a cluttered mess in recent years. The following customer review of Shazam, ranked as the “Most Helpful” on the App Store, is right on the money:
+
+“This app used to be so handy. If you heard a song that you liked during a movie of whatever, you could quickly load this app and it would tell you the song and artist. Magic! Often times theres limited opportunity to do this because they never play the full song in movies. Load this app nowadays and popups and clutter and dumb options that slow the whole process down, causing you to miss your opportunity to “Shazam” the song in the first place…”
+
+Coming to the rescue is Siri. Simply ask “What song is this?” and Siri, with some help from Shazam behind the scenes, will tell you what’s playing. If you click on the search result, the song will begin playing in Apple Music if you’re a subscriber or on a free trial period.
+
+Siri what song is this feature
+
+Now we don’t want to throw Shazam completely under the bus, so it’s worth noting that using Shazam does provide users with more options, such as the ability to share the song, view song lyrics and much more. Still, if you’re looking for a quick and no frills approach to figuring out what that mysterious song playing overhead is, this Siri command is well worth keeping in mind.
+
+5. Get movie plot synopses
+
+Curious what that new movie everyone is talking about is, well, about? Simply ask Siri “What is (insert movie name here)” and a plot synopsis will come right up. Additionally, Siri offers up a film’s Rotten Tomatoes score (along with a link to notable reviews) along with “Buy” and “Rent” buttons which, when tapped, will take you right to the iTunes Store.
+
+siri movies
+
+6. Find out what planes are flying overhead
+
+This Siri command may not be all that practical, but it’s still pretty cool. If you ask Siri, “What planes are flying overhead?”, Siri will take stock of your current location and map it against some mysterious flight database (read: the FAA) whereupon it will return some interesting flight information. This particular feature is powered by Wolfram Alpha.

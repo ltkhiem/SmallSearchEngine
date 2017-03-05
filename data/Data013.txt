@@ -1,0 +1,109 @@
+The trusty Facebook app on your Android phone or iPhone has some nifty—and powerful—features up its sleeves.
+
+Not only can you pick and choose which friends appear in your news feed, you can also save links to interesting articles, close another of your “active” Facebook sessions, put stickies on your photos and even post updates without an Internet connection.
+
+Read on for 9 gotta-know Facebook tips for Android and iOS users, starting with...
+
+Hide annoying friends and posts from your news feed
+Is your news feed riddled with posts and photos from friends who—let’s be honest now—you really don’t care that much about? There’s an easy way to clear out the clutter, and you can do it from the Facebook mobile app.
+
+Hide annoying friends and posts from your news feed
+There’s an easy way to clear the clutter (apologies to Iggles fans) from your Facebook news feed directly from your Android or iOS device.
+
+Just tap the little downward arrow in the top corner of the offending post, then pick an option. You can simply hide a specific post from your news feed, “unfollow” the friend who click the “Post” button (you’ll still be Facebook friends, but you won’t see their posts anymore), or block the source of an article in the post (meaning, for example, no more CNN.com headlines).
+
+The iOS version of the Facebook app just added a revamped “News Feed Preferences” section that lets you tap on the faces of friends whose posts you want to see more of—or, conversely, those whose rants you’d rather skip. Just tap the More button in the bottom-right corner of the main Facebook screen, tap News Feed Preferences, then pick an option, such as Prioritize who to see first or Unfollow people to hide their posts.
+
+These settings should be coming to the Android version of Facebook soon. In the meantime, though, Android users can still tap More (top-right corner of the screen), News Feed Preferences to see (or change their minds about) which friends, pages and groups are appearing most in their news feeds, as well as who’s been “unfollowed.”
+
+Save links for later
+There’s not enough time in the day to read all the articles your friends are posting on Facebook. Don’t feel bad, though; there’s an easy way to bookmark posted stories that you really want to read...just not this second.
+
+Save links for later
+Just tap “Save link” to bookmark an article, photo, video, or just about anything else in your Facebook news feed.
+
+Tap the downward arrow in the top corner of a post with a linked article, then tap Save link.
+
+When you’ve finally got some quality reading time, tap the More button, then tap Saved to see your list of saved articles.
+
+You can also tap the little button to the right of a saved story to archive it or repost it.
+
+Bonus tip: Facebook’s Save link feature also works with posted videos, photos, placed, tunes, or just about anything else that can be linked to a post.
+
+Save photos to your phone
+A Facebook friend or loved one just posted baby photos, a stunning sunset, or any other image you wish you could keep forever, you can.
+
+Save Facebook photos to your phone
+Want to save a Facebook photo to your phone? You can, in just a few taps.
+
+Tap the photo you want to save, then tap the three-dot menu button in the top corner of the screen and select Save photo. The image will be downloaded to your handset’s photo album.
+
+Bonus tip: If you spot an offensive, stomach-churning or otherwise objectionable image in your news feed, you can register your displeasure by tapping the photo, tapping the three-dot menu and then selecting I don’t like this photo.
+
+Switch to “most recent” posts
+By default, the posts in your news feed are arranged according to Facebook’s best guess of what you’ll find the most interesting.
+
+Switch to 
+If Facebook’s choices for the most “interesting” news feed posts aren’t working for you, just switch to the “Most Recent” setting. 
+
+If you’d rather just see your friends’ most recent posts, here’s the trick: Tap the More button, scroll down and tap Most Recent.
+
+Edit one of your posts
+Unlike in life, there are do-overs when it comes to your Facebook posts.
+
+Edit one of your posts
+Need a do-over on one of your Facebook posts? Tap “Edit Post” for another try.
+
+Once again, tap the little downward arrow in the top-right corner of one of the posts, tap Edit Post, then make your changes.
+
+Keep in mind that if you do edit a post, your friends will be able to view your edits by clicking the “Edited” link near the post’s timestamp.
+
+See everything that you’ve ever liked, commented on or posted
+Take a stroll down memory lane—or at least, your Facebook memory lane—by perusing all your old posts, “likes” and comments, starting from the very day you joined Facebook.
+
+See everything that you’ve ever liked, commented on or posted
+Take a gander at everything you’ve ever “liked” on Facebook right from your phone.
+
+Just tap the More button in the corner of the screen (top left for Android, bottom left for iOS), scroll down to the Settings section and tap Activity Log.
+
+From here, you can view everything you’ve ever posted and everything you’ve ever liked or commented on. You can even undo a “like” or delete a comment by tapping the little downward arrow next to a log entry.
+
+Note: If you joined Facebook way back when and try to check Activity Log entries further back than, say, 2007 or so, the Facebook app may freeze—or at least, it did for me, both on Android and iOS. Quitting and relaunching the app usually fixes the bug.
+
+Close another “active” Facebook
+Say you’ve left your Facebook feed up and running on your unlocked work PC (assuming your office lets you browse Facebook in the first place), here’s a handy solution: closing down that particular Facebook session from your phone.
+
+Close another 
+Leave Facebook open on another computer? You can close that session remotely with help from the Facebook mobile app.
+
+Tap the menu button in the Facebook mobile app, scroll down and tap Account Settings, then tap Security > Active Sessions.
+
+Find the Facebook session you want to close (you can usually identify it by the Last Accessed and Device Type labels) and tap the "x" button for that item.
+
+Doing so will remotely log you out of the session you picked, graying out your news feed and spawning a “You must log in to continue” pop-up window.
+
+Post updates and photos while you’re offline
+You're stuck in, say, the New York subway without wireless access. You can still post random thoughts or even photos using the mobile Facebook app.
+
+Post updates and photos while you’re offline
+Even if your iOS or Android device is offline, you can still queue up Facebook posts and photos using the Facebook mobile app.
+
+Tap the Status button, then write an update and (if you'd like) attach an image from your camera roll.
+
+When you tap Post, the Facebook app will queue up your status update and upload it the moment your handset goes back online.
+
+Bonus tip: The Android version of the Facebook app will also let you “like” items in your news feed while you’re offline. As with any queued-up posts, your likes will get synced once your device goes online again.
+
+Crop, add text, and put stickies on your photos
+Give that photo you’re about to post on Facebook a little extra punch with the Facebook app’s on-board image editing tools.
+
+Crop, add text, and put stickies on your photos
+The image editing tools in the Facebook mobile app can help give your photo posts a bit more pizzazz.
+
+Once you attach a photo to a post, you’ll see little editing buttons pop up near the bottom of the image: three on the Android app, and a single button that reveals a set of additional options for iOS.
+
+Both the Android and iOS versions of Facebook let you add captions directly onto the image, perfect for creating an on-the-go, viral-ready meme.
+
+You can also crop the photo or add “stickies”—you know, smiley faces, sad faces, silly faces, you name it.
+
+Last but not least, the iOS version of Facebook boasts a series of Instagram-like filters. Just swipe in from the right side of the screen to preview each filter one at a time, or tap the “Filters” tab to see all the filters at once.

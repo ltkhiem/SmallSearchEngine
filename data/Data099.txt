@@ -1,0 +1,12 @@
+Newyork judge rules against facebook
+A New York judge ruled Tuesday that Facebook has no legal standing to challenge the constitutionality of search warrants served on its users, highlighting the limits to online companies' abilities to protect user privacy.
+Last year, Facebook appealed a court decision requiring it to hand over data, including photos and private messages, relating to 381 user accounts. The data was sought as part of an investigation by the New York County District Attorney's office into a disability fraud case.
+Other companies including Google and Microsoft filed briefs supporting Facebook's move, as well as the American Civil Liberties Union.
+In her decision on Tuesday, Judge Dianne Renwick of the New York State Supreme Court said Facebook has no constitutional or statutory right to challenge a warrant before it's issued.
+Facebook had argued that the warrants function like subpoenas, because they require the company to be responsible for producing data and delivering it to the government. It said the federal Stored Communications Act gave it the right to challenge any order or subpoena served upon it.
+That argument rested on a misinterpretation of the law, Renwick wrote.
+The ruling comes as major technology companies tout their efforts to protect users from government data requests, which became a greater concern after Edward Snowden leaked information about government surveillance programs.
+Renwick said she understood Facebook's concerns about the scope of bulk warrants issued, and the district attorney's right to retain the data indefinitely. Facebook users share more intimate personal information through their Facebook accounts than may be revealed through rummaging about one's home, she wrote.
+A Facebook spokesman said the company was considering whether to appeal the decision. We continue to believe that overly broad search warrants -- granting the government the ability to keep hundreds of people's account information indefinitely -- are unconstitutional and raise important concerns about the privacy of people's online information, he said.
+Zach Miners covers social networking, search and general technology news for IDG News Service. Follow Zach on Twitter at @zachminers. Zach's e-mail address is zach_miners@idg.com
+- See more at httpwww.itnews.cominternet-based-applications-and-services95047new-york-judge-rules-against-facebook-search-warrant-#sthash.bmIRSbnO.dpuf

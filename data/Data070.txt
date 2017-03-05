@@ -1,0 +1,21 @@
+Easy Way To Protect Yourself From Phishing Attacks
+About Phishing Attack:- Phishing attacks is type of hacking in which attacker sends a link that opens a exactly similar page of site whose account or details attackers want to hack. Like if someone want to Hack Facebook Account then it will send you a link that will exactly same like facebook and when you login in it your id and password will get send to attackers and you being hacked. So read out the measure to protect yourself from this phishing attacks.
+Measures To Protect Yourself From Phishing Attacks
+#1 Identify Phishing Emails
+Phishing emails are the most common way for this hack. So you should identify the below points for this.
+->Copy the name of a company or an actual employee of the company.
+->Include sites that are visually similar to a real business.
+->Promote gifts, or the loss of an existing account.
+#2 Share your Personal Details Only Via Phone Or Trusted Websites
+Don’t share your personal information with other via some untrusted sites or mode of communication as these networks can be hacked or get bought by hackers and your all sensitive data will get leaked to others.
+#3 Use Antiviruses With Internet Security
+There are many antivirus that only scans inside your computer and don’t protect you against network threats so better is to use the antivirus that protects you both in your system and while browsing on internet.
+#4 Avoid The Unknown Links
+Today there are many attackers that will send you a phishing link that will be just for phishing attack and you get hacked via opening that link in your device. So better is to make sure that link belongs to some trusted site.
+#5 Don’t Login Into Any Site Opened Through some Unknown Links
+As we already told that phishing page will be exactly similar to the official page of that site and you will never judge that so better is to stay away from such links and never login with your personal details there if you find such page.
+#6 Change Your Accounts Passwords Periodcally
+Set up a fix period of time and change your all accounts password after that period of time that will helps you a lot as if someone have your old password then you will make sure that you are secure from that person as you had already changed that password.
+#7 Scans The Unknown Link On Google
+If you want to checkout any link that it is of phishing or not then simply copy the link and paste it on google search, if you found official page of trusted site then the link is genuine otherwise better is to stay away from that link. 
+So above is all about How To Protect Yourself From Phishing Attacks. With all the tips above you will get idea about these phishing attacks and measures to stay protected from them and with this you will secure your personal information too. Hope you like our work, don’t forget to share it with others too to aware them about this. Leave a comment below if you need our help on any related topic.

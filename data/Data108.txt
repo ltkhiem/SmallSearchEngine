@@ -1,0 +1,11 @@
+From ivory to potentially fraudulent artwork, scientists often turn to radiocarbon dating to figure out how old various fossils and artifacts are. But now, carbon dioxide emissions from burning fossil fuels are rapidly altering the atmospheric radiocarbon content. And according to findings published in Proceedings of the National Academy of Sciences this week, it might become impossible to tell new things from centuries-old things. The effects may start to show as early as 2020.
+
+Carbon-14 is a naturally occurring, radioactive form of carbon, and it decays over thousands of years. To estimate the age of an object using radiocarbon dating, researchers have to measure how much the ratio of carbon-14 to nonradioactive carbon has changed. Because they’re so ancient, coal and oil no longer contain any carbon-14, so when emissions from fossil fuel combustion enter the atmosphere, nonradioactive carbon floods the mix. As a result, the atmosphere appears older. This ages, for example, cotton made from plants that take in CO2 during photosynthesis. 
+
+The proportion of radioactive carbon-14 in the atmosphere has decreased with industrialization after the late 1800s, but there was a significant increase in the 1950s and 1960s because of nuclear weapons testing. The levels have since dropped to pre-industrial proportions. 
+
+Heather Graven from Imperial College London wanted to calculate the effect of this century’s fossil fuel consumption and CO2 emissions on the ratio of radioactive carbon to the stable one. Currently, the concentration of carbon-14 in the atmosphere has been diluted, increasing the radiocarbon age of our atmosphere by 30 years per year.
+
+"We can see from atmospheric observations that radiocarbon levels are steadily decreasing," Graven says in a statement. “How low they go depends on changes in our fossil fuel emissions.”
+
+With the most ambitious cuts in emissions, we would keep radiocarbon at these current, pre-industrial levels. Business-as-usual emissions, on the other hand, would deplete atmospheric radiocarbon by the equivalent of 2,000 years of radioactive decay by 2100. That means by 2050, fresh organic material will be indistinguishable from an archaeological find from the year 1050. As far as radiocarbon dating is concerned, my t-shirt may as well have been worn by William the Conqueror. 

@@ -1,0 +1,14 @@
+Computerized tomography (CT) scans may cause cellular damage— a finding that further encourages doctors to use the lowest radiation dose possible as a precaution, according to preliminary research from the Stanford University School of Medicine. 
+“[CT scans] are good in terms of helping doctors manage and diagnose patients— we’re not discounting that— but they do expose patients to some level of radiation,” lead study author, Dr. Patricia Nguyen, an assistant professor of cardiovascular medicine at Stanford, told FoxNews.com.
+
+The use of CT scans has soared over the past 20 years, with an estimated one in 10 Americans undergoing the imaging test each year. Previous research has shown that the amount of radiation a patient is exposed to in a single CT scan is equal to one year of natural background radiation, 3 mSv, Nguyen said. The actual amount of radiation a patient is exposed to depends on the type of scan and amount of scanning done.Other factors that can impact exposure are patient weight and heart rate.
+
+For their study, published Wednesday in the Journal of the American College of Cardiology: Cardiovascular Imaging, researchers examined the blood of 67 patients undergoing cardiac CT angiograms (CTA), and measured biomarkers of DNA damage before and after undergoing the procedure.
+
+Researchers found an increase in DNA damage and cell death after a single CT scan, but most of the cells were repaired or eliminated. Scientists don’t yet know whether that cellular damage affects cancer risk.
+
+“It’s very hard to track single cells and see what happens to them— if they develop into cancer over time,” Nguyen said. “It’s probably not feasible using current technology.”
+
+While scientists also don’t know what happens to cells that aren’t repaired or replenished, such cellular damage can be problematic, Nguyen said. For example, when elderly adults lose certain immune-boosting T-cells, they may be at a higher risk of infection.
+
+More research is needed to understand the exact outcome of low-dose radiation and whether doctors can take measures to help protect patients, such as the application of UV-blocking sunscreen.
